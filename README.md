@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @developer2112
+- 👀 I’m interested in upcoming softwares and i am learning in software engineering ...
+- 🌱 I’m currently learning software engineering ...
+- 💞️ I’m looking to collaborate on deve;loping software and different interesing  websites...
+- 📫 How to reach me on this github accountt and and you can email me on mdawit1711@gmail.com...
+- 😄 Pronouns: if you have interesting to work with me U are welcome!!!!!!!!!!!! ...
+- ⚡ Fun fact: Why programmrs prefer dark mode, because light attracts bugs ################...
+
+<!---
+developer2112/developer2112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+there are different works allowed for me on my enviroment,
+but I am inteested working on ngithub for thier unlimted performance flow and thier 
+interesting courses aimed to develop our project skill and
+problem solving.Therfor if you have interesred to learn code or other technologies 
+I THINK IT IS THE BEST WAY AND PLACE TO LEARN ALL THESE THINGS 
+.By the way if you have complex problem and complex projects to be worked
+please contact me otherwise thak you for your attension and understranding.
